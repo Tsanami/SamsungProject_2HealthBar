@@ -1,0 +1,26 @@
+// Прыжок в сторону касания
+//        iX += dx; // Параметры игрока
+//        iY += dy; // Параметры игрока
+//
+//        // Падение
+//        if ((jumpCount >= -10) && (isJump)){
+//            iY -= jumpCount * Math.abs(jumpCount) *0.5;
+//            jumpCount -= 1;
+//            delta();
+//        }
+//
+//        else {
+//            jumpCount = 10;
+//            isJump = false;
+//            dx = 0;
+//        }
+
+
+// Реагирование на прыжок
+
+//        if(event.getAction() == MotionEvent.ACTION_DOWN){
+//
+//            player.tX = event.getX();
+//            player.tY = event.getY();
+//            player.isJump = true;
+//        }
